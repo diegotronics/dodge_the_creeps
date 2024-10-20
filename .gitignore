@@ -1,0 +1,26 @@
+# Archivos generados por Godot
+*.import
+export.cfg
+export_presets.cfg
+
+# Archivos de caché y temporales
+.mono
+*.translation
+*.csproj
+*.sln
+*.userprefs
+*.tmp
+*.bak
+*.zip
+
+# Directorios
+.godot/
+bin/
+build/
+
+# Archivos específicos de plataformas
+android/
+ios/
+osx/
+windows/
+linux/
